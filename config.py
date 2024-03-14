@@ -8,7 +8,7 @@ class Config(object):
     OWNER = os.environ.get("OWNER")
     OWNER_USERNAME = os.environ.get("JNGohell")
     PASSWORD = os.environ.get("Abhi96")
-    DATABASE_URL = os.environ.get("mongodb+srv://Jng:jng@cluster0.vvrnobg.mongodb.net/?retryWrites=true&w=majority")
+    DATABASE_URL = os.environ.get("mongodb+srv://ttttechnicalaks7:filestorebotclone@cluster0.ch7domc.mongodb.net/?retryWrites=true&w=majority")
     LOGCHANNEL = os.environ.get("-1001988014238")  # Add channel id as -100 + Actual ID
     GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID", "root")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", None)
