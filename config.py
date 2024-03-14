@@ -5,7 +5,7 @@ class Config(object):
     API_HASH = os.environ.get("b2ec3ab8ed156e7a6782f3d7d1acbaf6")
     BOT_TOKEN = os.environ.get("7028334632:AAEXTOfWu3E9eXMrQbHzPKdtWroPRR3jelk")
     TELEGRAM_API = os.environ["24998279"]
-    OWNER = os.environ.get("OWNER")
+    OWNER = os.environ.get("866072531")
     OWNER_USERNAME = os.environ.get("JNGohell")
     PASSWORD = os.environ.get("Abhi96")
     DATABASE_URL = os.environ.get("mongodb+srv://ttttechnicalaks7:filestorebotclone@cluster0.ch7domc.mongodb.net/?retryWrites=true&w=majority")
