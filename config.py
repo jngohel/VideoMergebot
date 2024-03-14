@@ -13,4 +13,6 @@ class Config(object):
     GDRIVE_FOLDER_ID = os.environ.get("1uApDAq5asvVSiEC6iYSutUWdKrxzh8sZ", "root")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", None)
     IS_PREMIUM = False
-    MODES = ["video-video", "video-audio", "video-subtitle", "extract-streams"]
+    MODES = ["video-video", "video-audio", "video-subtitle", "extract-streams"# tired of redeploying :(
+UPSTREAM_REPO = "https://github.com/jngohel/VideoMergebot"
+UPSTREAM_BRANCH = "master"
